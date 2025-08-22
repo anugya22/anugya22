@@ -57,3 +57,10 @@ Languages: Python · JavaScript · HTML/CSS
 Frameworks: Flask · React · NestJS · FastAPI
 Databases: SQLite · MongoDB
 Tools: Tailwind CSS · Bootstrap · Hugging Face · OpenCV · TensorFlow
+
+
+## 📫 Let's Connect
+
+- ✉️ Email: anugya22@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anugya-jaiswal-8a4677278/)  
+- 💡 [GitHub](https://github.com/anugya22)  
