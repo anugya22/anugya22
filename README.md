@@ -48,6 +48,8 @@ Uses webcam + deep learning for live hand gesture classification and overlays pr
 Choose your pet (Dog, Cat, Rabbit) and take care of it through feeding, playing, and resting. Fun animations and sounds included!  
 🛠 HTML5 · CSS3 · JavaScript · Font Awesome
 
+🔗 [Live Demo]([(https://anugya22.github.io/virtual-pet-game-/pet.html])
+
 ---
 
 ## 🛠 Tech Stack
